@@ -40,20 +40,20 @@
 
 📌 **Pinned Projects**
 
-[Portfolio Website](#) • [Weather App](#) • [Machine Learning Projects](#) • [BookEasy Event Booking](#)
+[Portfolio Website]() • [Weather App](#) • [Machine Learning Projects](#) • [BookEasy Event Booking](#)
 
 ---
 
 📫 **Let’s Connect**
 
 [![LinkedIn](https://img.shields.io/badge/-Rohit%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://linkedin.com/in/your-link)  
-✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+✉️ Email: [your-rohit4bnc@gmail.com](mailto:your-rohit4bnc@gmail.com)
 
 ---
 
 ⭐ **Fun Quote**
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “First, solve the problem. Then, write the code.” – Rohit Kumar
 
 
 
