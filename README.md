@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">🚀 MCA student at KIIT | 💻 Passionate Developer | 🔍 DSA & Machine Learning Enthusiast</h3>
+<h3 align="center">🚀 💻 Passionate Developer | 🔍 DSA & Machine Learning Enthusiast</h3>
 
 ---
 
 🌟 **About Me**
 
-- 🎓 Completed **MCA from KIIT**
+- 🎓 Completed **MCA from KIIT Deemed to be University**
 - 🎓 Completed **BCA from Patna University**
 - 💡 Exploring **Web Development, AI and Machine Learning**
 - 🔭 I’m currently working on: **.NET, Angular, React.js Projects**
