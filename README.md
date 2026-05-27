@@ -5,10 +5,10 @@
 
 🌟 **About Me**
 
-- 🎓 Currently pursuing **MCA from KIIT**
+- 🎓 Completed **MCA from KIIT**
 - 🎓 Completed **BCA from Patna University**
-- 💡 Exploring **Web Development, Java, and Machine Learning**
-- 🔭 I’m currently working on: **React.js Projects & DSA**
+- 💡 Exploring **Web Development, AI and Machine Learning**
+- 🔭 I’m currently working on: **.NET, Angular, React.js Projects**
 - 📚 I'm currently learning: **DSA, System Design & Git**
 - 🧠 Fun Fact: I love solving logic puzzles and debugging bugs like a boss! 🐛🔧
 
